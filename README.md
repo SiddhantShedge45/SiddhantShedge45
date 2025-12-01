@@ -68,29 +68,33 @@ I enjoy designing systems, managing deployments, working on backend logic, and b
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 
 <div align="center">
 
-<!-- Stats -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SiddhantShedge45&show_icons=true&theme=tokyonight" height="160px"/>
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=SiddhantShedge45&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 <br/><br/>
 
-<!-- Languages -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SiddhantShedge45&layout=compact&theme=tokyonight" height="160px"/>
+<!-- Followers -->
+<img src="https://img.shields.io/github/followers/SiddhantShedge45?style=for-the-badge&color=blue"/>
+
+<!-- Stars -->
+<img src="https://img.shields.io/github/stars/SiddhantShedge45?style=for-the-badge&color=yellow"/>
 
 <br/><br/>
 
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=SiddhantShedge45&theme=tokyonight&hide_border=false" height="160px"/>
+<!-- Repo Count -->
+<img src="https://img.shields.io/badge/Public%20Repos-$(curl -s https://api.github.com/users/SiddhantShedge45 | jq '.public_repos')-green?style=for-the-badge"/>
 
 <br/><br/>
 
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddhantShedge45&theme=tokyo-night" height="250px"/>
+<!-- Top Languages (Using Shields) -->
+<img src="https://img.shields.io/badge/Top%20Languages-Python%20%7C%20JavaScript%20%7C%20C++-ff69b4?style=for-the-badge"/>
 
 </div>
+
 
 
 ## 📬 Contact & Connect

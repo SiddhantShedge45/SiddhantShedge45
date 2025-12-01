@@ -70,9 +70,9 @@
 
 ## 📫 Connect With Me
 
-📧 Email: **(Add your email here)**  
-🔗 LinkedIn: *(Add link)*  
-🌍 Portfolio Website: *(Optional)*  
+📧 Email: siddhantshedge16@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/siddhant-shedge
+🌍 Portfolio Website: -
 
 ---
 

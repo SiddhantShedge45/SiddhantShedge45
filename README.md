@@ -72,25 +72,26 @@ I enjoy designing systems, managing deployments, working on backend logic, and b
 
 <div align="center">
 
-<br>
+<!-- Stats -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SiddhantShedge45&show_icons=true&theme=tokyonight" height="160px"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SiddhantShedge45&show_icons=true&theme=tokyonight" height="160px" />
+<br/><br/>
 
-<br><br>
+<!-- Languages -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SiddhantShedge45&layout=compact&theme=tokyonight" height="160px"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhantShedge45&layout=compact&theme=tokyonight" height="160px" />
+<br/><br/>
 
-<br><br>
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=SiddhantShedge45&theme=tokyonight&hide_border=false" height="160px"/>
 
-<img src="https://streak-stats.demolab.com?user=SiddhantShedge45&theme=tokyonight" height="160px"/>
+<br/><br/>
 
-<br><br>
-
+<!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddhantShedge45&theme=tokyo-night" height="250px"/>
 
 </div>
 
----
 
 ## 📬 Contact & Connect
 

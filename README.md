@@ -67,33 +67,11 @@ I enjoy designing systems, managing deployments, working on backend logic, and b
 | 📝 Digital Diary App | Java-based personal note keeping GUI application. |
 
 ---
+## 📈 GitHub Contributions
 
-## 📊 GitHub Stats 
-
-<div align="center">
-
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=SiddhantShedge45&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-
-<br/><br/>
-
-<!-- Followers -->
-<img src="https://img.shields.io/github/followers/SiddhantShedge45?style=for-the-badge&color=blue"/>
-
-<!-- Stars -->
-<img src="https://img.shields.io/github/stars/SiddhantShedge45?style=for-the-badge&color=yellow"/>
-
-<br/><br/>
-
-<!-- Repo Count -->
-<img src="https://img.shields.io/badge/Public%20Repos-$(curl -s https://api.github.com/users/SiddhantShedge45 | jq '.public_repos')-green?style=for-the-badge"/>
-
-<br/><br/>
-
-<!-- Top Languages (Using Shields) -->
-<img src="https://img.shields.io/badge/Top%20Languages-Python%20%7C%20JavaScript%20%7C%20C++-ff69b4?style=for-the-badge"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SiddhantShedge45/SiddhantShedge45/output/github-contribution-grid-snake.svg" />
+</p>
 
 
 
